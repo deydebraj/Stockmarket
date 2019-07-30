@@ -1,0 +1,3 @@
+J4YRCRC8QOA33Q92
+
+https://www.alphavantage.co/query?function=TIME_SERIES_INTRADAY&symbol=GOOGL&interval=5min&apikey=J4YRCRC8QOA33Q92
