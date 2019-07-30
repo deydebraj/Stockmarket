@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Stockmarket/static/css/main.79e34894.chunk.css",
+    "main.js": "/Stockmarket/static/js/main.9109ac13.chunk.js",
+    "main.js.map": "/Stockmarket/static/js/main.9109ac13.chunk.js.map",
+    "runtime~main.js": "/Stockmarket/static/js/runtime~main.671b11cb.js",
+    "runtime~main.js.map": "/Stockmarket/static/js/runtime~main.671b11cb.js.map",
+    "static/css/2.266e55a5.chunk.css": "/Stockmarket/static/css/2.266e55a5.chunk.css",
+    "static/js/2.06f7f4db.chunk.js": "/Stockmarket/static/js/2.06f7f4db.chunk.js",
+    "static/js/2.06f7f4db.chunk.js.map": "/Stockmarket/static/js/2.06f7f4db.chunk.js.map",
+    "index.html": "/Stockmarket/index.html",
+    "precache-manifest.92645b3a54ce95e7ae695d4aa382d6e8.js": "/Stockmarket/precache-manifest.92645b3a54ce95e7ae695d4aa382d6e8.js",
+    "service-worker.js": "/Stockmarket/service-worker.js",
+    "static/css/2.266e55a5.chunk.css.map": "/Stockmarket/static/css/2.266e55a5.chunk.css.map",
+    "static/css/main.79e34894.chunk.css.map": "/Stockmarket/static/css/main.79e34894.chunk.css.map",
+    "static/media/left.jpg": "/Stockmarket/static/media/left.30ca908c.jpg",
+    "static/media/right.jpg": "/Stockmarket/static/media/right.fd989d41.jpg"
+  }
+}
